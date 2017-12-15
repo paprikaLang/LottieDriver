@@ -1,0 +1,6 @@
+framework module Pods_LottieCute {
+  umbrella header "Pods-LottieCute-umbrella.h"
+
+  export *
+  module * { export * }
+}
